@@ -46,4 +46,4 @@ Just kidding, [you can find it here](https://github.com/yhat/ggplot/tree/v0.6.6)
 
 ### Contributing
 Thanks to all of the ggplot [contributors](./contributors.md#contributors)!
-See *[contributing.md](./contributing.md)*.
+See *[contributing.md](./contributing.md)*
